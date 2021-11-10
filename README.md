@@ -30,6 +30,7 @@ Tomcat - 9.0
 
 ## Getting Started
 1. git clone https://github.com/EuryKim2/Project_One-Employment_Reimbursement_System.git
-2. Start the Tomcat Server 
+2. Create a PostgreSQL database based on the models in the Java project
+3. Start the Tomcat Server 
 
 
